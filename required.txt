@@ -1,0 +1,4 @@
+Vosk
+pyttsx3
+Python
+Raspberry Pi hardware
